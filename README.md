@@ -1,8 +1,9 @@
 
-来自： https://github.com/ksky521/doudizhu.git  的源代码  
+******原始代码来自： https://github.com/ksky521/doudizhu.git******  
+
 自己用来熟悉斗地主游戏流程并修改修改测试玩玩
 
-******原始代码来自： https://github.com/ksky521/doudizhu.git******    
+  
 
 
 
